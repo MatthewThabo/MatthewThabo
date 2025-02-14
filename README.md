@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew Thabo Matlenana
--  # A passionate Software developer and front-end & web developer from South Africa south of Johanessburg.
-- 👀 I am mostly building a front-end projects and I am aspiring to be fullstack/MERN stack developer...
+-  # A passionate Software developer, I am more into API design/architect and systems intergration using platforms such as Flowgear,IBM api connect, I am from South Africa south of Johanessburg.
+- 👀 I am mostly building a front-end projects and I am aspiring to be fullstack/MERN stack developer...as my side projects to dive deep and learn
 - 🌱 I’m currently learning # Reactjs & Nextjs and Nodejs/Mongo DB/Express/.
 - 💞️ I’m looking to collaborate on ... react projetcs as a junior.
 -     Most of my projects are available at https://matthewthabo.github.io/
